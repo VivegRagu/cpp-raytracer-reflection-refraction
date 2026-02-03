@@ -1,6 +1,4 @@
-//
-// Created by Peter Zdankin on 13.11.24.
-//
+
 
 #ifndef CAMERA_HPP
 #define CAMERA_HPP
